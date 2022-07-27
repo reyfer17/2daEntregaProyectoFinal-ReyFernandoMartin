@@ -69,7 +69,9 @@ function avisoYCarga (codigo){
 }
 
 function actualizarCarrito (){botonMostrarCarrito.addEventListener("click",() =>{
-    divCarrito.innerHTML =``
+    divCarrito.innerHTML =`
+    <h2 id="tituloCarrito">Carrito de compras</h2>
+    `
     divTotal.innerHTML =``
     let indice = -1
     carrito.forEach (elemento => {

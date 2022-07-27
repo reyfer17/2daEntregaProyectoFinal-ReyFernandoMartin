@@ -49,3 +49,11 @@ img {
     margin: 5px;
     border-radius: 2rem;
 }
+#tituloCarrito{
+    margin-top: 4rem;
+    background-color: orange;
+    font-size: 4rem;
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
