@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 1rem;
+}
+.productos{
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin: 5px;
+    border-radius: 2rem;
+}
+
+.carrito{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    border-radius: 5rem;
+}
+.carrito img{
+border-radius: 5rem;
+}
+
+h1 {
+    font-size: 5rem;
+    color: black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card-img-top {
+    border-radius: 2rem;
+}
+
+img {
+    margin-top: 2rem ;
+    height: 200px;
+}
+
+.total{
+    text-align: center;
+    background-color: orange;
+    color: black;
+    margin: 5px;
+    border-radius: 2rem;
+}
